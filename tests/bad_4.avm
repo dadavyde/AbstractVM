@@ -1,0 +1,16 @@
+pushh int(32);
+push int(32) ;push
+push int16(1000) ;push
+ ;    push int16(1000) ;push
+ 	    push int16 (1000) ;; push
+  assert int16(1000) ; assert
+  assert float(1000.) .
+; ;
+ assert float(-0.)
+  assert float(-0..5)
+ assert float(-0,5454545)
+ asert float(-0.5454545)
+
+ assert double(-0,5454545)
+ assert double(-0,5454545) ; double
+ ; assert double(0.5)

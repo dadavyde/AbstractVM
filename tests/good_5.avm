@@ -1,0 +1,15 @@
+push int8(-75)
+push float(45.002)
+dump
+add
+"added"
+dump
+pop ; clear all stack
+"clear all stack"
+push double(-05.00485)
+push int32(44546)
+dump
+div
+"divided"
+dump
+exit

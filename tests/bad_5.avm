@@ -1,0 +1,13 @@
+push int32(75)
+push float(44.55)
+dump
+mul
+"mul"
+dump
+pop ; clear all stack
+
+push int32(75)
+dump
+div
+"div"
+dump

@@ -1,0 +1,15 @@
+push int32(75)
+push float(44.55)
+dump
+mul
+"mul"
+dump
+pop ; clear all stack
+
+push int32(75)
+push int16(44)
+dump
+div
+"div"
+dump
+exit

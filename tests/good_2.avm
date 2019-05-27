@@ -1,0 +1,6 @@
+push float(2.02)
+push double(3.003)
+add
+assert double(5.023)
+dump
+exit

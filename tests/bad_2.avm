@@ -1,0 +1,8 @@
+push int32(48)
+sqrt
+dump
+push float(2.5)
+pow
+dump
+assert float(129.542)
+exit
